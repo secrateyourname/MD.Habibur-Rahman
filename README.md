@@ -2,26 +2,19 @@
 ###      👋, I am  MD.Habibur Rahman.
 #### I am a Student.
 ![](https://github.com/secrateyourname/MD.Habibur-Rahman/blob/main/anime-style-galaxy-background.jpg)
-
-
 - ## 🔭 I’m currently studing
 
+- ### <<"_">> Turning coding challenges into playgrounds. Let's create something extraordinary together!
 
-### Turning coding challenges into playgrounds. Let's create something extraordinary together!
-
-
-### Skills: html / c / c++ / writter / digital creator / photographer
+- ### My Skills: html/c/c++/writter/digital creator/photographer
 
 - 🔭 I’m currently studing Computer Science & Engineering (CSE) 
 - 🌱 I’m currently learning DSA and Python... .
-- 💬 Ask me about.     Hello!Iam Habib.
+- 💬 Ask me about: Hello!Iam Habib.
 - 
-- ### 😘Find or follow someone who will change your life and never forget him.🤫
-- 
+- ### <"_"Respect him<.> 😘Find or follow someone who will change your life and never forget him.🤫
 - ## 📫 How to reach me: habibmohammad77702@gmail.com
-- 
-- ## 😄 Pronouns: Habib
-- 
+-  ## 😄 Pronouns: Habib
 - ## ⚡ Fun fact: I think Iam not funny but Iam also funny!!!!!
 
 
