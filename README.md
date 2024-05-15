@@ -1,6 +1,14 @@
 ### Hi there 👋, I am  MD.Habibur Rahman
 #### I am a Student.
-![I am a Student.](<a href="https://www.freepik.com/free-ai-image/anime-style-galaxy-background_122496266.htm#fromView=image_search_similar&page=2&position=2&uuid=364e28d8-24d9-4a08-b299-d35d947fb059">Image by freepik</a>)
+![I am a Student.]![](https://github.com/secrateyourname/MD.Habibur-Rahman/blob/main/anime-style-galaxy-background.jpg)
+
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 Turning coding challenges into playgrounds. Let's create something extraordinary together!
 
